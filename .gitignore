@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.root
+*.so
+*.d
+*.pcm
